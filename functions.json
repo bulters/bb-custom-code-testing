@@ -1,0 +1,17 @@
+{
+  "logBible": {
+    "returnType": "boolean"
+  },
+  "allUsers": {
+    "returnType": "string"
+  },
+  "getJSON": {
+    "returnType": "string"
+  },
+  "sayHello": {
+    "returnType": "string",
+    "inputVariables": {
+      "name": "string"
+    }
+  }
+}
