@@ -2,6 +2,14 @@
   "logBible": {
     "returnType": "boolean"
   },
+  "why": {
+    "returnType": "boolean",
+    "inputVariables": {}
+  },
+  "rp": {
+    "returnType": "boolean",
+    "inputVariables": {}
+  },
   "allUsers": {
     "returnType": "string"
   },
